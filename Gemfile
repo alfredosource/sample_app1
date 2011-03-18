@@ -29,6 +29,7 @@ gem 'rails', '3.0.5'
 group :development do
   gem 'rspec-rails', '2.5.0' 
 
+  gem 'annotate-models', '1.0.4'
 end
 
 
